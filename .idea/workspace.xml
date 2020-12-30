@@ -19,15 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="003b426f-b156-462e-be80-7a7509e5b434" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/django_projekt/users/forms.py" afterDir="false" />
+    <list default="true" id="003b426f-b156-462e-be80-7a7509e5b434" name="Default Changelist" comment="Added an register page, login page, logout page, profile page (still blank) which cannot be entered while not being login. Added crispy template pack 'bootstrap4', basically added some front end stuff that gives a better look for register page. &#10;Still website shoud give an message after login, registration but it doenst work. Also added function that gives you name right after logout, and u cannot see a login click while beign logged on website.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_projekt/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/blog/templates/blog/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_projekt/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_projekt/django_projekt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/django_projekt/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_projekt/django_projekt/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/django_projekt/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_projekt/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/users/templates/users/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_projekt/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_projekt/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_projekt/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/users/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_projekt/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/users/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -70,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608681858249</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added an register page, login page, logout page, profile page (still blank) which cannot be entered while not being login. Added crispy template pack 'bootstrap4', basically added some front end stuff that gives a better look for register page. &#10;Still website shoud give an message after login, registration but it doenst work. Also added function that gives you name right after logout, and u cannot see a login click while beign logged on website.">
+      <created>1609190202768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609190202768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +90,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added an register page, login page, logout page, profile page (still blank) which cannot be entered while not being login. Added crispy template pack 'bootstrap4', basically added some front end stuff that gives a better look for register page. &#10;Still website shoud give an message after login, registration but it doenst work. Also added function that gives you name right after logout, and u cannot see a login click while beign logged on website." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an register page, login page, logout page, profile page (still blank) which cannot be entered while not being login. Added crispy template pack 'bootstrap4', basically added some front end stuff that gives a better look for register page. &#10;Still website shoud give an message after login, registration but it doenst work. Also added function that gives you name right after logout, and u cannot see a login click while beign logged on website." />
   </component>
 </project>
