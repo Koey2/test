@@ -19,14 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="003b426f-b156-462e-be80-7a7509e5b434" name="Default Changelist" comment="Added an register page, login page, logout page, profile page (still blank) which cannot be entered while not being login. Added crispy template pack 'bootstrap4', basically added some front end stuff that gives a better look for register page. &#10;Still website shoud give an message after login, registration but it doenst work. Also added function that gives you name right after logout, and u cannot see a login click while beign logged on website.">
+    <list default="true" id="003b426f-b156-462e-be80-7a7509e5b434" name="Default Changelist" comment="Finished profile site, added default.jpg image and function that u can uploud ur own image.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_projekt/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_projekt/django_projekt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/django_projekt/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_projekt/django_projekt/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/django_projekt/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_projekt/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/users/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_projekt/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/users/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_projekt/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_projekt/users/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +54,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.json.schema.catalog" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pietr\OneDrive\Desktop\test_projekt_git\test\django_projekt\media" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609190202768</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished profile site, added default.jpg image and function that u can uploud ur own image.">
+      <created>1609339990750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609339990750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added an register page, login page, logout page, profile page (still blank) which cannot be entered while not being login. Added crispy template pack 'bootstrap4', basically added some front end stuff that gives a better look for register page. &#10;Still website shoud give an message after login, registration but it doenst work. Also added function that gives you name right after logout, and u cannot see a login click while beign logged on website." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added an register page, login page, logout page, profile page (still blank) which cannot be entered while not being login. Added crispy template pack 'bootstrap4', basically added some front end stuff that gives a better look for register page. &#10;Still website shoud give an message after login, registration but it doenst work. Also added function that gives you name right after logout, and u cannot see a login click while beign logged on website." />
+    <MESSAGE value="Finished profile site, added default.jpg image and function that u can uploud ur own image." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished profile site, added default.jpg image and function that u can uploud ur own image." />
   </component>
 </project>
